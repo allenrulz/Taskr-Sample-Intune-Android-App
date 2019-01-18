@@ -43,7 +43,7 @@ public final class AuthManager {
 
     /* The AAD client ID registered at https://apps.dev.microsoft.com.
      * This ID is unique to this application and should be replaced for yours. */
-    private static final String CLIENT_ID = "bbce9923-37da-4e04-a477-a501ce642ce9";
+    private static final String CLIENT_ID = "5f2d2fe8-00a9-4456-9fc9-42773d4b4aef";
     private static final String REDIRECT_URI = "http://localhost";
     private static final String RESOURCE_ID = "https://graph.microsoft.com/";
 
